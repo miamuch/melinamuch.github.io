@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Melina Much, PhD
 
 # Name pronunciation (optional)
 #name_pronunciation: Chien Shiung Wu
@@ -33,27 +33,23 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
+  - icon: brands/bluesky
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - American Politics
+  - Identity Politics
+  - Social Media
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Political Science
+    institution: UC Irvine
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
