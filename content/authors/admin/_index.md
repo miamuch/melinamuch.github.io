@@ -3,7 +3,6 @@
 title: Melina Much, PhD
 
 # Name pronunciation (optional)
-#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Melina 
@@ -31,16 +30,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'm.much@nyu.edu'
     label: E-mail Me
   - icon: brands/bluesky
-    url: https://twitter.com/GetResearchDev
+    url: https://bsky.app/profile/melinamuch.bsky.social
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/miamuch
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=aWnYLRQAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-7097-6971
 
 interests:
   - American Politics
