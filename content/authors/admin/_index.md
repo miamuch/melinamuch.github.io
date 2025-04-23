@@ -65,7 +65,7 @@ education:
   - area: Visiting Ph.D. Student
     institution: California Institute of Technology
     date_start: 2023-01-01
-    date_end: 2024-7-31
+    date_end: 2024-07-31
    
 
 # Skills
