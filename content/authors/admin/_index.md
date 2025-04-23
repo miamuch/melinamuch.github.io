@@ -23,8 +23,8 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: New York Unveristy Center for Social Media and Politics
-    url: https://openai.com/
+  - name: New York University - Center for Social Media and Politics
+    url: https://csmapnyu.org/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
