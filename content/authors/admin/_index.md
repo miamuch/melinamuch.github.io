@@ -38,7 +38,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=aWnYLRQAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
     url: https://orcid.org/
 

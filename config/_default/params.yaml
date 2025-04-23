@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: white
 
 # SEO
 marketing:
@@ -49,7 +49,7 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Jan 23, 2025'
   time_format: '3:04 PM'
 
 # Site features
