@@ -179,4 +179,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Melina Much is a postdoctoral fellow for NYU's Center for the Study of Social Media and Politics. She attained her PhD from the University of California, Irvine in 2024. She was also a visiting Ph.D. student with the Alvarez Lab at California Insitutute of Technology. For CSMaP, she specializes in the intersection of political psychology, survey methodologies, and social media in the American context.
+
+In addition, Melina works on questions of identity politics and statistical methodologies to study intersectionality. She has also worked on questions of gender-based mobilization on social media during the #MeToo era and in the wake of Dobbs v. Jackson.
