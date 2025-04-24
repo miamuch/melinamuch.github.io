@@ -11,7 +11,7 @@ authors:
 author_notes:
   - 'solo-author'
 
-date: '2013-07-01T00:00:00Z'
+date: '2025-04-022T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publishDate: '2025-04-22T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Political Research Quarterly*
@@ -32,7 +32,10 @@ abstract: Intersectionality is widely recognized as one of the largest contribut
 summary: Bayesian multilevel models increase our inferential understanding of group-based heterogeneity in public opinion and political behavior. Conventional techniques, such as interaction terms, frequently yield estimates that are obscured by considerable noise, making it challenging to discern meaningful patterns.
 
 tags:
-  - intersectionality, Bayesian statistics, multilevel modeling, American politics
+  - Intersectionality 
+  - Bayesian statistics 
+  - Multilevel modeling 
+  - American politics
 
 # Display this page in the Featured widget?
 featured: true
@@ -56,13 +59,3 @@ image:
 
 
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
