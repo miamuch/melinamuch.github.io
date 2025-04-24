@@ -11,7 +11,7 @@ authors:
 author_notes:
   - 'solo-author'
 
-date: '2025-04-022T00:00:00Z'
+date: '2025-04-22T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
