@@ -25,7 +25,7 @@ Teach your course by sharing videos with your students. Choose from one of the f
 
 **Youtube**:
 
-    {{</* youtube w7Ft2ymGmfc */>}}
+    {{</* youtube 7yfe90cpoWk */>}}
 
 **Bilibili**:
 
