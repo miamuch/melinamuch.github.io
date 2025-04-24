@@ -1,6 +1,6 @@
 ---
 title: Advanced Research Methdods for Political Science Undergraduates
-summary: Easily learn JavaScript in 10 minutes!
+summary: Approachable R Coding and Research 
 type: docs
 math: false
 tags:
@@ -11,7 +11,7 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-I have been both instructor of record of a series of undergraduate courses on Quantitative Research methods, as well as co-founding and creating content for a Ph.D. level methods "Bootcamp" for incoming Ph.D. students at UC Irvine. In both cases, the focus was on 
+I have been both instructor of record of a series of undergraduate courses on Quantitative Research methods, as well as co-founding and creating content for a Ph.D. level methods "Bootcamp" for incoming Ph.D. students at UC Irvine. In both cases, the focus was on practical R knowledge with an approachable style. 
 
 ## Video
 
@@ -22,4 +22,4 @@ Here is a sampling of an online lecture I recorded for Cal Poly Pomona students 
 
 
 
-## Did you find this page helpful? Consider sharing it 🙌
+
