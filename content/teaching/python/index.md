@@ -1,11 +1,10 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: Identity Politics
+summary: Introduction to how race, gender, and class shape American Politcs.
 type: docs
 math: false
 tags:
-  - Python
+  - Identity Politics
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
