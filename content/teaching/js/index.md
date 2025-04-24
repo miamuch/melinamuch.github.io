@@ -11,11 +11,7 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
-
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
-
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+I have been both instructor of record of a series of undergraduate courses on Quantitative Research methods, as well as co-founding and creating content for a Ph.D. level methods "Bootcamp" for incoming Ph.D. students at UC Irvine. In both cases, the focus was on 
 
 ## Video
 
