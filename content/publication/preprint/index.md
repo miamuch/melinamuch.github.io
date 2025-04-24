@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Intersectional Quantitative Methods - Oxford Handbook of Methodological Pluralism"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -14,58 +14,32 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Intersectional Quantitative Methods "
+publication_short: "Intersectional Quantitative Methods "
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This chapter reviews the major advances in accounting for intersectionality empirically and embracing methodological pluralism within Political Science and related Social Sciences. Intersectionality, or approaching identity categories rooted in structural power such as race, gender, and class as inseparable, remains a site of intellectual promise particularly because of its utility for explaining the big questions in American politics. This chapter focuses on intersectional quantitative methods as a site for new innovations as it is the natural step after demonstrating the current literature’s advances of frameworks to operationalize intersectionality. After outlining these advances in approaching identity, the chapter explores how ideas on statistical learning within Political Methodology can help inform both new modeling and statistical paradigm choices for intersectional research. The new avenues posed by multilevel modeling and Bayesian frameworks show a small window into the promise of this emerging field.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The chapter explores how ideas on statistical learning within Political Methodology can help inform both new modeling and statistical paradigm choices for intersectional research. The new avenues posed by multilevel modeling and Bayesian frameworks show a small window into the promise of this emerging field.
 
 tags:
-- Large Language Models
+- methodological pluralism in Political Science
+- intersectionality
 
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+- name: Handbook Link
+  url: https://academic.oup.com/edited-volume/52557/chapter/444328515
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**MEM, PhD**]'
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
