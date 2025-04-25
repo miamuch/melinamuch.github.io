@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Melina Much, PhD
-
+title: Melina Much
 # Name pronunciation (optional)
 
 # Full name (for SEO)
