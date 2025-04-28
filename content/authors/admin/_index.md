@@ -48,8 +48,8 @@ interests:
 education:
   - area: PhD Political Science
     institution: UC Irvine
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-01-01
+    date_end: 2024-6-20
   - area: Visiting Ph.D. Student
     institution: California Institute of Technology
     date_start: 2023-01-01
