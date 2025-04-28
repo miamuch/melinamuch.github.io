@@ -24,7 +24,9 @@ abstract: Class is a known determinant of political attitudes and behaviors, yet
 summary:  We demonstrate our method with two empirical examples using 2020 American National Election Studies data, showing that the significance of SES or SSS elements varies depending on the outcome.
 
 tags:
-- Source Themes
+- class identity 
+- intersectionality 
+- mixture modeling
 featured: false
 
 # links:
