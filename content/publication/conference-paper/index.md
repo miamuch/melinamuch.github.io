@@ -11,11 +11,11 @@ authors:
 author_notes:
   - 'solo-author'
 
-date: '2025-04-22T00:00:00Z'
+date: '2025-04-22'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-04-22T00:00:00Z'
+publishDate: '2025-04-22'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
