@@ -42,11 +42,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+ - name: URL Link
+   url: https://journals.sagepub.com/eprint/TKCS9KC4VKC4BJGKPSCF/full
 
 url_pdf: 'https://journals.sagepub.com/doi/epub/10.1177/10659129251335233'
-url_code: 'https://journals.sagepub.com/eprint/TKCS9KC4VKC4BJGKPSCF/full'
 
 
 # Featured image
