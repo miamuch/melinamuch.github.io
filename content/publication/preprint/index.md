@@ -1,5 +1,5 @@
 ---
-title: "Intersectional Quantitative Methods - Oxford Handbook of Methodological Pluralism"
+title: "Intersectional Quantitative Methods"
 authors:
 - admin
 date: '2024-04-07'
@@ -14,8 +14,8 @@ publishDate: '2024-04-07'
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Intersectional Quantitative Methods "
-publication_short: "Intersectional Quantitative Methods "
+publication: In "Oxford Handbook of Methodological Pluralism in Political Science"
+publication_short: "Oxford Handbook Chapter"
 
 abstract: This chapter reviews the major advances in accounting for intersectionality empirically and embracing methodological pluralism within Political Science and related Social Sciences. Intersectionality, or approaching identity categories rooted in structural power such as race, gender, and class as inseparable, remains a site of intellectual promise particularly because of its utility for explaining the big questions in American politics. This chapter focuses on intersectional quantitative methods as a site for new innovations as it is the natural step after demonstrating the current literature’s advances of frameworks to operationalize intersectionality. After outlining these advances in approaching identity, the chapter explores how ideas on statistical learning within Political Methodology can help inform both new modeling and statistical paradigm choices for intersectional research. The new avenues posed by multilevel modeling and Bayesian frameworks show a small window into the promise of this emerging field.
 
