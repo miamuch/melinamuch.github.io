@@ -1,6 +1,7 @@
 ---
 title: Advanced Research Methods for Political Science Undergraduates
 summary: Approachable R Coding and Research 
+date: '2023-03-22'
 type: docs
 math: false
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Identity Politics
 summary: Introduction to how race, gender, and class shape American Politcs.
+date: '2023-01-22'
 type: docs
 math: false
 tags:
