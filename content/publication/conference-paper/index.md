@@ -41,7 +41,7 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+ links:
  - name: URL Link
    url: https://journals.sagepub.com/eprint/TKCS9KC4VKC4BJGKPSCF/full
 
