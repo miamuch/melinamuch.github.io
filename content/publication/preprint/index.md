@@ -2,11 +2,11 @@
 title: "Intersectional Quantitative Methods - Oxford Handbook of Methodological Pluralism"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2023-04-07"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-04-07"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
