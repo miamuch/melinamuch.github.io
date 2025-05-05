@@ -104,6 +104,6 @@ skills:
 
 ## About Me
 
-Melina Much is a postdoctoral fellow for NYU's Center for the Study of Social Media and Politics. She attained her PhD in Political Science from the University of California, Irvine in 2024. She was also a visiting Ph.D. student with the Alvarez Lab at California Insitutute of Technology. For CSMaP, she specializes in the intersection of political psychology, survey methodologies, and social media in the American context.
+I am a postdoctoral fellow for NYU's Center for the Study of Social Media and Politics. I attained my PhD in Political Science from the University of California, Irvine in 2024. I was also a visiting Ph.D. student with the Alvarez Lab at California Insitutute of Technology. For CSMaP, I specialize in the intersection of political psychology, survey methodologies, and social media in the American context.
 
-In addition, Melina works on questions of identity politics and statistical methodologies to study intersectionality. She has also worked on questions of gender-based mobilization on social media during the #MeToo era and in the wake of Dobbs v. Jackson.
+In addition, Melina I on questions of identity politics and statistical methodologies to study intersectionality. I have also worked on questions of gender-based mobilization on social media during the #MeToo era and in the wake of Dobbs v. Jackson, as well as gender in podcasting relating to how it impacts politics.
