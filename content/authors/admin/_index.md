@@ -45,7 +45,11 @@ interests:
   - Identity Politics
   - Social Media
 
-education:
+experience:
+  - area: Postdoctoral Fellow 
+    institution: NYU Center for Social Media and Politics
+    date_start: 2024-09-01
+    date_end: Present
   - area: PhD Political Science
     institution: UC Irvine
     date_start: 2018-01-01
