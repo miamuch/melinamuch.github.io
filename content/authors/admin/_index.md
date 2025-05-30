@@ -45,7 +45,7 @@ interests:
   - Identity Politics
   - Social Media
 
-experience:
+education:
   - area: Postdoctoral Fellow 
     institution: NYU Center for Social Media and Politics
     date_start: 2024-09-01
