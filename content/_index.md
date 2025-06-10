@@ -26,7 +26,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publication
@@ -36,7 +36,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Publications and Working Papers
+      title: Working Papers & Under Review Work
       text: ""
       filters:
         folders:
