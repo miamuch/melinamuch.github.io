@@ -1,5 +1,5 @@
 ---
-title: "Incorporating Class Identities in Intersectional Quantitative Political Attitudes Research"
+title: "Affective Leaning Independents: Capturing the partisan feelings of two-click independents"
 authors:
 - Kyle McWagner
 - admin
@@ -7,7 +7,7 @@ date: "2024-04-17"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "TBD"
+#publishDate: "TBD"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
