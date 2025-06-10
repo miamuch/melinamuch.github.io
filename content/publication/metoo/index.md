@@ -1,5 +1,5 @@
 ---
-title: "Affective Leaning Independents: Capturing the partisan feelings of two-click independents"
+title: "Activating Identity and Political Action in the #Metoo Era"
 authors:
   - admin
   - Daniel Ebanks
