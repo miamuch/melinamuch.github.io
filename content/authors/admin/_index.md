@@ -111,4 +111,4 @@ I am a postdoctoral fellow for NYU's Center for the Study of Social Media and Po
 
 In addition, I work on questions of identity politics and statistical methodologies to study intersectionality. I have also worked on questions of gender-based mobilization on social media during the #MeToo era and in the wake of Dobbs v. Jackson, as well as gender in podcasting relating to how it impacts politics.
 
-Outside of work, I’m a former collegiate soccer player, avid lifter, mountain biker, and Dungeons & Dragons enthusiast. I enjoy long talks about the NWSL and anything San Diego (my hometown). 
+Outside of work, I’m a former collegiate soccer player, avid lifter, mountain biker, and Dungeons & Dragons enthusiast. I enjoy long talks about the women's soccer and anything San Diego (my hometown). 
